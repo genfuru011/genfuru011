@@ -3,7 +3,6 @@
 ## 🎓 About Me
 
 - 📍 地理学を専攻する学生
-- 💻 Web開発とAI/LLM統合に情熱を注いでいます
 - 📸 写真撮影が趣味で、世界を違った視点で捉えることが好きです
 - 🌍 地理学の知識とテクノロジーを組み合わせた新しい可能性を探求中
 
@@ -60,8 +59,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=genfuru011&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <i>✨ 地理学とテクノロジーの架け橋となることを目指して ✨</i>
 </div>
